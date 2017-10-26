@@ -1,0 +1,7 @@
+{
+    "name": "vivecltd/freeagent",
+    "licence": "MIT",
+    "require": {
+        "league/csv": "^9.1"
+    }
+}
